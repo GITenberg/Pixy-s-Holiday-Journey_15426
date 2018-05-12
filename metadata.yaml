@@ -1,0 +1,37 @@
+_repo: Pixy-s-Holiday-Journey_15426
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ireland, Mary E. (Mary Eliza)
+    alias: Ireland, Mary Eliza Haines, Mrs.
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '39140'
+    url: http://www.gutenberg.org/2009/agents/39140
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, George
+    gutenberg_agent_id: '6049'
+    url: http://www.gutenberg.org/2009/agents/6049
+description: ''
+gutenberg_issued: '2005-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Frankfurt am Main (Germany) -- Juvenile fiction'
+- !lcsh 'Germany -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: Pixy's Holiday Journey
+url: http://www.gutenberg.org/ebooks/15426
